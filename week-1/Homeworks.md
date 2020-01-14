@@ -38,12 +38,12 @@ Write queries that answer the following questions:
 
 Optional: Try to connect your node.js to mysql.
 
-# My HaccerRank Page
+# My HackerRank Page
 
-After 200 hours dedicated hours. Here is my profile, I am still pushing myself and each day solving new problems: [my pofile](https://www.hackerrank.com/ikoral)
+After 200 dedicated hours. Here is my profile, I am still pushing myself and each day solving new problems: [my pofile](https://www.hackerrank.com/ikoral)
 
 ### Resources
 
-[SQL Bolt (SQL)](https://sqlbolt.com/)
-[W3 Schools (SQL)](https://www.w3schools.com/sql/)
-[MySQL](https://www.tutorialspoint.com/mysql/mysql-introduction.htm)
+[SQL Bolt (SQL)](https://sqlbolt.com/) <br/>
+[W3 Schools (SQL)](https://www.w3schools.com/sql/)<br/>
+[MySQL](https://www.tutorialspoint.com/mysql/mysql-introduction.htm)<br/>
