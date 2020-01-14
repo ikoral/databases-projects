@@ -44,6 +44,6 @@ After 200 hours dedicated hours. Here is my profile, I am still pushing myself a
 
 ### Resources
 
-[SQL Bolt (SQL)](https://sqlbolt.com/)
-[W3 Schools (SQL)](https://www.w3schools.com/sql/)
-[MySQL](https://www.tutorialspoint.com/mysql/mysql-introduction.htm)
+[SQL Bolt (SQL)](https://sqlbolt.com/) <br/>
+[W3 Schools (SQL)](https://www.w3schools.com/sql/)<br/>
+[MySQL](https://www.tutorialspoint.com/mysql/mysql-introduction.htm)<br/>
