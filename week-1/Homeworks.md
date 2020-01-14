@@ -38,7 +38,7 @@ Write queries that answer the following questions:
 
 Optional: Try to connect your node.js to mysql.
 
-# My HaccerRank Page
+# My HackerRank Page
 
 After 200 dedicated hours. Here is my profile, I am still pushing myself and each day solving new problems: [my pofile](https://www.hackerrank.com/ikoral)
 
