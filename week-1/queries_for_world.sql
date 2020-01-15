@@ -15,6 +15,10 @@ SELECT c.Name FROM world.country c where c.Continent = 'Europe';
 -- List all the countries in the descending order based on their surface areas.
 SELECT c.Code,c.Name, c.SurfaceArea FROM world.country c order by c.SurfaceArea desc;
 
+
+
+/****************Additional Questions*******************/
+
 -- What are the names of all the cities in the Netherlands?
 SELECT c.Name
 	FROM world.city c
