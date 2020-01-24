@@ -19,9 +19,9 @@
 - Print the names and biographies of the actors in this format “ANNE HATHAWAY BIO: 1 golden globe”
 - Delete the column biography from act
 
-## [Travel Agency:](./ilhan-week02-homework03-travel-agency-ERD.pdf)
+## Travel Agency:
 
-- Modify your ERD after what you saw today.
+- [Modify your ERD after what you saw today.](./ilhan-week02-homework03-travel-agency-ERD.pdf)
 - Create the a database, create the relevant tables and populate them with trips, customers, payments and a few more (at least 10 in each table).
 - Use Primary and Foreign Keys to link the tables.
 - Create the queries (using JOINS) to tell us:<br>
