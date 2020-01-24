@@ -10,7 +10,7 @@
 - Which country has the lowest population?
 - Make a list with all the languages spoken in Eastern Africa.
 
-## IMDB:
+## [IMDB:](./week02-exercise-imdb.sql)
 
 - Find the minimum and the maximum age of the actors per gender.
 - Find how many actors are in their 20’s, 30’s, 40’s, 50’s etc (grouped by decade).
