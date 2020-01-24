@@ -1,6 +1,6 @@
 # ilhan databases week2 Homeworks
 
-## WORLD:
+## [WORLD:](./week02-exercise-world.sql)
 
 - What is the name and the population of the most populated city in India?
 - List the names of the countries having at least 3 cities with 3 million inhabitants.
