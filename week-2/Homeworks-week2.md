@@ -19,7 +19,7 @@
 - Print the names and biographies of the actors in this format “ANNE HATHAWAY BIO: 1 golden globe”
 - Delete the column biography from act
 
-## Travel Agency:
+## [Travel Agency:](./ilhan-week02-homework03-travel-agency-ERD.pdf)
 
 - Modify your ERD after what you saw today.
 - Create the a database, create the relevant tables and populate them with trips, customers, payments and a few more (at least 10 in each table).
