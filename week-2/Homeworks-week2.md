@@ -22,8 +22,8 @@
 ## Travel Agency:
 
 - [Modify your ERD after what you saw today.](./ilhan-week02-homework03-travel-agency-ERD.pdf)
-- Create the a database, create the relevant tables and populate them with trips, customers, payments and a few more (at least 10 in each table).
-- Use Primary and Foreign Keys to link the tables.
+- [Create the a database, create the relevant tables and populate them with trips, customers, payments and a few more (at least 10 in each table).](./travelAgency.sql)
+- [Use Primary and Foreign Keys to link the tables.](./travelAgency.sql)
 - Create the queries (using JOINS) to tell us:<br>
   ** How many trips did a customer book. <br>
   ** What are the destinations of your favourite package? <br>
