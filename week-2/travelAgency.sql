@@ -1,4 +1,4 @@
-/*MySQL Week-1 Homework02 library Database 
+/*MySQL Week-2 Homework04 TravelAgency Database 
 
 Author: ilhan
 Host: Localhost
